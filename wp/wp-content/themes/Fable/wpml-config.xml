@@ -1,0 +1,13 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<admin-texts>
+		<key name="et_foxy">
+			<key name="fable_date_format" />
+			<key name="fable_seo_home_titletext" />
+			<key name="fable_seo_home_descriptiontext" />
+			<key name="fable_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>
